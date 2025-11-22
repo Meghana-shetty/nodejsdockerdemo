@@ -16,5 +16,5 @@ spec:
       - name: nodejscontainer
         image: meghanajshetty/nodejsdockerdemo:latest
         ports:
-          containerPort: 3000
+        - containerPort: 3000
       
